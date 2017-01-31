@@ -4,9 +4,9 @@
 
 - Summing over the total number of values and dividing by the number of values
 
-INSERT
+![alt text](../Assets/Population-Mean-Average.png)
 
-INSERT
+![alt text](../Assets/Sample-Mean-Average.png)
 
 ## Median
 
@@ -14,7 +14,7 @@ INSERT
 - (total values + 1) / 2 = Position of the median value
 - If it's in the middle of 2 values, use the average of the two values
 
-INSERT
+![alt text](../Assets/Median.png)
 
 ## Mode
 
