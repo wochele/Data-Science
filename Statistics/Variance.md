@@ -11,7 +11,13 @@
 
 - Each individual value subtracted from the mean divided by the total number of observations (-1 for a sample)
 
-INSERT
+![alt text](../Assets/Variance-Formula-Population.png)
 
-INSERT
+![alt text](../Assets/Variance-Formula-Sample.png)
+
+## Standard Deviation
+
+- Square root of the variance
+
+## Standard Error
 
